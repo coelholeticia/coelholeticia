@@ -1,6 +1,7 @@
 ## 👩‍💻  Olá! eu sou Letícia Coelho.
 #### 📖 Estudante de engenharia de software.
-#### 👩‍🎓 Formada em Moda, migrando de carreira.
+#### 👩‍🎓 Formada em Moda.
+
 #### 🌎 Rio de Janeiro-Brazil.
 <div>
 <a href="linkedin.com/in/leticia-coelho-556906188"/>
