@@ -1,8 +1,9 @@
 ## 👩‍💻  Olá! eu sou Letícia Coelho.
 #### 📖 Estudante de engenharia de software.
 ##### 📚 Estudando no momento Javascript e seus componentes.
-
-#### 🌎 Rio de Janeiro-Brazil.
+##### 📟 Trabalhando em projetos focado em Front-end. 
+##### 🎨 Habilidades em Design com Ux e Ui e prototypagem no figma. 
+##### 🌎 Rio de Janeiro-Brazil.
 <div>
 <a href="linkedin.com/in/leticia-coelho-556906188"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coelholeticia&show_icons=true&theme=radical"/>
