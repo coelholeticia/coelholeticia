@@ -1,8 +1,8 @@
-## 👩‍💻  Hello! I'm Letícia Coelho.
-#### 📖 Software engineering student.
-##### 📚 Studying Javascript and its components at the moment.
-##### 📟 Working on Front-end focused projects. 
-##### 🎨 Design skills with Ux and Ui and prototyping in figma. 
+## 👩‍💻  Olá! Eu sou Letícia Coelho.
+#### 📖 Estudante de Engenharia de Software.
+##### 📚 Estudando no momento Javascript.
+##### 📟 Atualmente faço projetos focados no front-end. 
+##### 🎨 Habilidades com design feitos no figma e prototipagem, Ux/Ui. 
 
 <div>
   <a href="linkedin.com/in/leticia-coelho-556906188"/>
