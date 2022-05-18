@@ -1,6 +1,6 @@
 ## 👩‍💻  Olá! Eu sou Letícia Coelho.
 #### 📖 Estudante de Engenharia de Software.
-##### 📚 Estudando no momento Javascript.
+##### 📚 Estudando no momento Javascript, NodeJs e ReactJs
 ##### 📟 Atualmente faço projetos focados no front-end. 
 ##### 🎨 Habilidades com design feitos no figma e prototipagem, Ux/Ui. 
 
