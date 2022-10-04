@@ -6,12 +6,6 @@
 
 
 <div>
-  <a href="linkedin.com/in/leticia-coelho-556906188"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coelholeticia&show_icons=true&theme=radical"/>
-  <img heignt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelholeticia&layout=compact&theme=radical"/>
-</div>
-
-<div>
   <img align="right" width="25%" src="https://i.pinimg.com/originals/aa/12/11/aa12111e7a0d8f69886f6f3adfbf1f0a.gif"/>
 </div>
         
