@@ -1,7 +1,8 @@
 ## 👩‍💻  Olá! Eu sou Letícia Coelho.
 ##### 📟 Desenvolvedora front-end.
 ##### 🎲 Estudando ciência de dados.
-##### 🎨 Habilidades com design feitos no figma e prototipagem, Ux/Ui. 
+##### 📊 Estagiária em Dados. 
+
 
 
 
