@@ -1,6 +1,5 @@
 ## 👩‍💻  Olá! Eu sou Letícia Coelho.
 ##### 📟 Desenvolvedora front-end.
-##### 🎲 Estudando ciência de dados.
 ##### 📊 Estagiária em Dados. 
 
 
