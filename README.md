@@ -20,6 +20,7 @@ Estou sempre procurando aprender mais e me desafiar em novos projetos. Você pod
           <br><a href="https://instagram.com/coelho.letticia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></br>
           <br><a href="https://github.com/coelholeticia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></br>
 
+<div style="text-aling:center;"> <img src="https://raw.githubusercontent.com/codethi/codethi/beef1ad22eb03892b42fe9ed99a8289e3fabcef6/github-contribution-grid-snake.svg" /> </div>
 
 
 
