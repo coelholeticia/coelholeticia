@@ -3,11 +3,8 @@
 <br><b>Olá! Bem-vindos! ✌️👩‍💻</b>
 </br>
 <br>
-  <p> 🔸  Meu nome é Letícia ✌️. Sou uma estudante de Análise de Desenvolvimento de Sistemas
-    .
-Durante minha jornada, adquiri uma ampla variedade de habilidades técnicas em diversas áreas.
-
-Ao longo da minha trajetória acadêmica e profissional, também busquei aprimorar constantemente minhas habilidades através de cursos e formações. Participei do programa Dev-Front-end da Reprograma, completei o curso completo de HTML, CSS e JS da Alura e estive envolvida em bootcamps da DIO e do Impulso Web Developer. Além disso, investi em formações em Power BI, Ux e Ui, Python básico, Introdução a Ciência de Dados, entre outros. Essas experiências me proporcionaram um conhecimento sólido e atualizado nas áreas em que atuo.
+  <p> 🔸
+Ao longo da minha trajetória acadêmica e profissional, busquei aprimorar constantemente minhas habilidades através de cursos e formações. Participei do programa Dev-Front-end da Reprograma, completei o curso completo de HTML, CSS e JS da Alura e estive envolvida em bootcamps da DIO e do Impulso Web Developer. Além disso, investi em formações em Power BI, Ux e Ui, Python básico, Introdução a Ciência de Dados, entre outros. Essas experiências me proporcionaram um conhecimento sólido e atualizado nas áreas em que atuo.
 
 No campo profissional, tive a oportunidade de aplicar meus conhecimentos como estagiária em TI. Durante essa experiência, trabalhei em projetos significativos, utilizando Power BI e desempenhando um papel essencial no design de aplicativos através das minhas habilidades em Ux-UI. Também atuei como facilitadora de ensino de front-end como freelancer no SENAC, onde pude transmitir meus conhecimentos em lógica de programação, HTML, CSS, GIT e introdução ao JavaScript. 
 Além do meu trabalho remunerado, também sou apaixonada por fazer a diferença através do trabalho voluntário. Dediquei parte do meu tempo no Instituto Encantos, atuando como web designer, e também participei como monitora de ensino de front-end no projeto Reprograma. Essas experiências me permitiram não apenas contribuir para a comunidade, mas também aprender e crescer como profissional.
