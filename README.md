@@ -4,12 +4,13 @@
 </br>
 <br>
   <p> 🔸
-Ao longo da minha trajetória acadêmica e profissional, busquei aprimorar constantemente minhas habilidades através de cursos e formações. Participei do programa Dev-Front-end da Reprograma, completei o curso completo de HTML, CSS e JS da Alura e estive envolvida em bootcamps da DIO e do Impulso Web Developer. Além disso, investi em formações em Power BI, Ux e Ui, Python básico, Introdução a Ciência de Dados, entre outros. Essas experiências me proporcionaram um conhecimento sólido e atualizado nas áreas em que atuo.
+Sou formada em Análise e Desenvolvimento de Sistemas (dez/2024) e atuo com desenvolvimento Front-end, criação de dashboards com Power BI e automação de processos. Tenho experiência com desenvolvimento full-stack em nuvem (AWS), ferramentas low code, além de ter atuado com sistemas legados em Mainframe.
 
-No campo profissional, tive a oportunidade de aplicar meus conhecimentos como estagiária em TI. Durante essa experiência, trabalhei em projetos significativos, utilizando Power BI e desempenhando um papel essencial no design de aplicativos através das minhas habilidades em Ux-UI. Também atuei como facilitadora de ensino de front-end como freelancer no SENAC, onde pude transmitir meus conhecimentos em lógica de programação, HTML, CSS, GIT e introdução ao JavaScript. 
-Além do meu trabalho remunerado, também sou apaixonada por fazer a diferença através do trabalho voluntário. Dediquei parte do meu tempo no Instituto Encantos, atuando como web designer, e também participei como monitora de ensino de front-end no projeto Reprograma. Essas experiências me permitiram não apenas contribuir para a comunidade, mas também aprender e crescer como profissional.
+Participei de projetos de ensino de Front-end, o que fortaleceu minha base técnica e habilidades de comunicação. Também explorei o setor administrativo, onde me destaquei otimizando tarefas com planilhas e automatizações.
 
-Estou constantemente em busca de aprendizado contínuo para me manter atualizada com as últimas tendências e tecnologias do mercado. Estou sempre pronta para enfrentar novos desafios e contribuir em projetos de TI. Minha paixão pela tecnologia e meu compromisso com a excelência garantem que eu esteja sempre disposta a compartilhar minhas habilidades e conhecimentos adquiridos.
+Atualmente, estou focada em prestar serviços nas áreas de:
+
+Desenvolvimento de sites e aplicativos (Web/Mobile)
 
   </p>
 </br>
