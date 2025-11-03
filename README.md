@@ -4,13 +4,9 @@
 </br>
 <br>
   <p> 🔸
-Sou formada em Análise e Desenvolvimento de Sistemas (dez/2024) e atuo com desenvolvimento Front-end, criação de dashboards com Power BI e automação de processos. Tenho experiência com desenvolvimento full-stack em nuvem (AWS), ferramentas low code, além de ter atuado com sistemas legados em Mainframe.
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento Front-end, criação de dashboards com Power BI e automação de processos. Tenho experiência com desenvolvimento full-stack em nuvem (AWS), ferramentas low code, além de ter atuado com sistemas legados em Mainframe.
 
 Participei de projetos de ensino de Front-end, o que fortaleceu minha base técnica e habilidades de comunicação. Também explorei o setor administrativo, onde me destaquei otimizando tarefas com planilhas e automatizações.
-
-Atualmente, estou focada em prestar serviços nas áreas de:
-
-Desenvolvimento de sites e aplicativos (Web/Mobile)
 
   </p>
 </br>
