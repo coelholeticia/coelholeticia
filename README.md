@@ -4,9 +4,19 @@
 </br>
 <br>
   <p> 🔸
-Sou formada em Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento Front-end, criação de dashboards com Power BI e automação de processos. Tenho experiência com desenvolvimento full-stack em nuvem (AWS), ferramentas low code, além de ter atuado com sistemas legados em Mainframe.
+Desenvolvedora Full Stack em formação, apaixonada por criar interfaces modernas e soluções eficientes. Tenho experiência com Front-end, desenvolvimento cloud na AWS, low code e análise de dados. Gosto de aprender na prática, construindo projetos que resolvem problemas reais e me desafiam tecnicamente.
 
-Participei de projetos de ensino de Front-end, o que fortaleceu minha base técnica e habilidades de comunicação. Também explorei o setor administrativo, onde me destaquei otimizando tarefas com planilhas e automatizações.
+🚀 O que estou estudando agora
+
+AWS Cloud Practitioner (AWS Educate)
+
+Projetos Full Stack
+
+Criação de aplicativos
+
+💡 Interesses
+
+Front-end, apps, cloud, dados e tudo que envolva construir tecnologia que facilita a vida das pessoas.
 
   </p>
 </br>
