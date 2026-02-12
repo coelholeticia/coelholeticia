@@ -12,16 +12,8 @@ AWS Cloud Practitioner (AWS Educate)
 
 Projetos Full Stack
 
-Criação de aplicativos
+Mainframe
 
-💡 Interesses
-
-Front-end, apps, cloud, dados e tudo que envolva construir tecnologia que facilita a vida das pessoas.
-
-  </p>
-</br>
-
-<br>
 <b>Vamos nos conectar? 😊</b>
 </br>
 <br><a href="https://www.linkedin.com/in/leticia-coelho-556906188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></br>
