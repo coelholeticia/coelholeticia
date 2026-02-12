@@ -4,7 +4,7 @@
 </br>
 <br>
   <p> 🔸
-Desenvolvedora Full Stack em formação, apaixonada por criar interfaces modernas e soluções eficientes. Tenho experiência com Front-end, desenvolvimento cloud na AWS, low code e análise de dados. Gosto de aprender na prática, construindo projetos que resolvem problemas reais e me desafiam tecnicamente.
+Desenvolvedora Full Stack, apaixonada por criar interfaces modernas e soluções eficientes. Tenho experiência com Front-end, desenvolvimento cloud na AWS, low code, análise de dados e mainframe . Gosto de aprender na prática, construindo projetos que resolvem problemas reais e me desafiam tecnicamente.
 
 🚀 O que estou estudando agora
 
