@@ -1,18 +1,12 @@
-<div style="text-aling:center;">  </div>
+🎓 Systems Analyst | Pós-graduanda em Engenharia de Software  
 
-<br><b>Olá! Bem-vindos! ✌️👩‍💻</b>
-</br>
-<br>
-  <p> 🔸
-Desenvolvedora Full Stack, apaixonada por criar interfaces modernas e soluções eficientes. Tenho experiência com Front-end, desenvolvimento cloud na AWS, low code, análise de dados e mainframe . Gosto de aprender na prática, construindo projetos que resolvem problemas reais e me desafiam tecnicamente.
+💻 Mainframe (COBOL | JCL | z/OS)  
+🚀 Full-Stack (React | Node.js | AWS)  
 
-🚀 O que estou estudando agora
+Experiência com sistemas legados corporativos e desenvolvimento de aplicações modernas em cloud.  
+Interesse em arquitetura, performance e soluções escaláveis.  
 
-AWS Cloud Practitioner (AWS Educate)
-
-Projetos Full Stack
-
-Mainframe
+💡 Construindo pontes entre o legado e a inovação.
 
 <b>Vamos nos conectar? 😊</b>
 </br>
